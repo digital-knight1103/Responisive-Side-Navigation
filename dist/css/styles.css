@@ -234,7 +234,17 @@ img {
 }
 
 /* Show menu */
+.show-menu {
+  -webkit-transform: translate(70%);
+          transform: translate(70%);
+}
+
 /* Change background header */
+.scroll-header {
+  -webkit-box-shadow: 0 1px 4px rgba(40, 37, 37, 0.1);
+          box-shadow: 0 1px 4px rgba(40, 37, 37, 0.1);
+}
+
 /* Active link */
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
