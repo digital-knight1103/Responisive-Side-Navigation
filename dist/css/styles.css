@@ -246,6 +246,10 @@ img {
 }
 
 /* Active link */
+.active-link {
+  color: var(--title-color-dark);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 /* For medium devices */
